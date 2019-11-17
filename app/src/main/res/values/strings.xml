@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MicroSubj</string>
+    <string name="start">Start</string>
+    <string name="angle_string">Angle Value</string>
+    <string name="mass_string">Mass Value</string>
+    <string name="force_string">Force value</string>
+    <string name="y_coord_string">Y:</string>
+    <string name="x_coord_string">X:</string>
+</resources>
